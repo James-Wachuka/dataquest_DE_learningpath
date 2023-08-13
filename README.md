@@ -7,6 +7,7 @@
 </p>
 
 <p align="left">
+Key skills
 
 1. Programming with Python and build complex data architecture to support organizations’ data strategy
 
