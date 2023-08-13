@@ -1,4 +1,4 @@
-# DATAQUEST DATA ENGINEERING LEARNING PATH
+## Dataquest Data Engineering learning path
 
 
 <p align="left">
